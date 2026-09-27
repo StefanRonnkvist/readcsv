@@ -1,0 +1,38 @@
+Open tabular files without a full spreadsheet suite. Read CSV gives you a
+focused workspace for checking exports, reviewing logs, and exploring
+structured data on Android.
+
+IMPORT WITH LESS SETUP
+- Open local CSV, TSV, and TXT files
+- Detect comma, semicolon, tab, and pipe delimiters automatically
+- Use the first record as column headers
+- Normalize blank or duplicate header names
+- Skip completely empty data rows
+
+INSPECT AND FIND WHAT MATTERS
+- Keep multiple datasets open in separate tabs
+- Browse rows and columns in a two-directional scrollable table
+- Filter a selected column by an exact value
+- Search text across every column with case-insensitive matching
+- See matching and total row counts at a glance
+
+MANAGE AND CONVERT
+- Rename dataset tabs to keep your workspace organized
+- Delete datasets and their stored rows with confirmation
+- Generate complete JSON or XML output
+- Preview generated output and copy it to the clipboard
+- Choose System, Dark, or Light appearance
+
+LOCAL-FIRST DATA HANDLING
+Imported datasets are stored locally on your device, so you can return to them
+after restarting the app. Importing, browsing, filtering, and generating
+exports do not send your dataset contents to the contact server. No account is
+required for these core features.
+
+The optional Information area uses an internet connection. Its contact form
+sends the details you enter together with basic app and device diagnostics to
+the configured contact endpoint. Server Data retrieves inquiries associated
+with this app.
+
+Read CSV is designed for practical, focused inspection when you need to
+understand a data file quickly.

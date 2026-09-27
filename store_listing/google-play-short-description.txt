@@ -1,0 +1,1 @@
+Open and filter CSV, TSV, or TXT files, then copy JSON or XML.

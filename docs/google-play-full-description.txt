@@ -1,0 +1,16 @@
+Read CSV helps you open and review CSV data quickly on Android.
+
+Built for speed and clarity, Read CSV makes it easy to import CSV, TSV, and TXT files, detect the right delimiter, and browse structured rows in a clean tab-based layout.
+
+What you can do:
+- Import local data files directly from your device
+- Auto-detect common delimiters for faster setup
+- View headers and rows in a readable table
+- Keep multiple datasets open as separate tabs
+- Rename tabs to organize files your way
+- Delete datasets you no longer need
+- Work offline with locally stored data
+
+Read CSV is designed for practical day-to-day use when you need to inspect spreadsheets or raw exports without opening heavy office tools. Whether you are checking reports, validating exports, or reviewing logs, the app keeps the process simple and focused.
+
+No account required. No cloud dependency for normal use. Just pick a file and start exploring your data.
